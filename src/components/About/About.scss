@@ -1,0 +1,49 @@
+
+// .text{
+//     // font-style: italic;
+//     // text-transform: uppercase;
+//     font-size: 1em;
+//     font-weight: 500;
+//     font-style: italic;
+//     letter-spacing: 0.1em;
+//     color: white;
+
+// }
+
+.banner_text{
+    font-size: 4em;
+    color: white;
+}
+
+.space{
+    height: 15vh;
+    align-items: space-around;
+    justify-content: center;
+    margin: 5 5px;
+}
+
+.root {
+    display: flex;
+    flex-flow: column wrap;
+    align-items: space-around;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    // background-image: url(./sunset.jpg)
+}
+
+.text{
+    font-size: 2em;
+    color: white;
+    
+}
+
+.icon{
+    // margin: auto;
+    text-align: center;
+    display: inline-block;
+    // position: absolute;
+    // bottom: 0;
+    // left: 0;
+    width: 100%;
+}
